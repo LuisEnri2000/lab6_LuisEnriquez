@@ -1,0 +1,17 @@
+Big Bang Theory;20;Sitcom;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+Big Bang Theory 2;20;Sitcom;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+Big Bang Theory 3;20;Sitcom;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+Big Bang Theory 4;20;Sitcom;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+El drama;20;Drama;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+El drama 2;20;Drama;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+El drama 3;20;Drama;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+La rosa de Guadalupe;20;Novelas;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+La rosa de Guadalupe 2;20;Novelas;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+La rosa de Guadalupe 3;20;Novelas;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+El silencio;20;Suspenso;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+El silencio 2;20;Suspenso;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+El silencio 3;20;Suspenso;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+xXx;20;YYY;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+xXx 2;20;YYY;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+xXx 3;20;YYY;J.O. Pane, George Clooney;2;Fox;Ingles;true;true
+

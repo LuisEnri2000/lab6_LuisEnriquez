@@ -1,0 +1,24 @@
+﻿Saw;120;Suspenso;Yo;Pos yo;La mia;Español;false;true
+Us;116;Suspenso;Actor 1, Actor 2;G. Tarantino;Fox Studios;Ingles;true;false
+El bosque;112;Suspenso;Actorazo, Doctorino;Miguel Negro;Disney;Francés;true;true
+Shrek;120;Animacion;adawef;waefweaf;weafwef;Español;false;true
+Shrek 2;120;Animacion;adawef;waefweaf;weafwef;Español;false;true
+Como entrenar a tu Shrek;120;Animacion;adawef;waefweaf;weafwef;Español;false;true
+Lord of the rings;120;Fantasia;El hobbit :v;El mismo;Fox;Español;true;false
+Lord of the rings 2;120;Fantasia;El hobbit :v;El mismo;Fox;Español;true;false
+Lord of the rings 3;120;Fantasia;El hobbit :v;El mismo;Fox;Español;true;false
+Star Trek;120;Fantasia;El hobbit :v;El mismo;Fox;Español;true;false
+Star Trek 2;120;Fantasia;El hobbit pero wapo :v;El mismo;Fox;Español;true;false
+Star Trek 3;120;Fantasia;El hobbit pero mamado :v;El mismo;Fox;Español;true;false
+Star Wars;115;SciFi;El hobbit pero mamado :v;El mismo;Fox;Español;true;false
+Star Wars 2;115;SciFi;El hobbit pero mamado :v;El mismo;Fox;Ingles;true;false
+Star Wars 3;115;SciFi;El hobbit pero mamado :v;El mismo;Fox;Español;true;false
+El amor;115;Romantica;El hobbit pero mamado :v;El mismo;Fox;Español;true;false
+El amor 2;110;Romantica;El hobbit pero mamado :v;El mismo;Fox;Español;true;false
+El amor 3;200;Romantica;El hobbit pero mamado :v;El mismo;Fox;Español;true;true
+Duro de matar;200;Accion;El pelon de Brazzers;El mismo;Fox;Español;true;true
+Duro de matar 2;200;Accion;El pelon de Yvideos pero mamado :v;El mismo;Fox;Español;true;true
+Duro de matar 3;200;Accion;El pelon pero mamado :v;El mismo;Fox;Español;true;true
+La llorona;110;Terror;El pelon pero mamado :v;El mismo;Fox;Español;true;true
+El conjuro;93;Terror;El pelon pero mamado :v;El mismo;Fox;Español;true;true
+El JOH;50;Terror;El pelon pero mamado :v;El mismo;Fox;Español;true;true
